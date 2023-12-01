@@ -1,8 +1,8 @@
 # YT ReVanced Module [Dynamic Mount]
-[![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/Near365_Official)
-[![Release](https://img.shields.io/github/v/release/NearVPN/Youtube-ReVanced-Module?label=Release)](https://github.com/NearVPN/Youtube-ReVanced-Module/releases/latest)
-![](https://img.shields.io/badge/Android-8.0%20--%2013-red.svg)
-<img src="https://img.shields.io/github/downloads/NearVPN/Youtube-ReVanced-Module/total">
+
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/@Near365_Official)
+[![Download](https://img.shields.io/github/v/release/NearVPN/Youtube-ReVanced-Module?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/Youtube-ReVanced-Module/releases/latest)
+[![Total](https://shields.io/github/downloads/NearVPN/Youtube-ReVanced-Module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/NearVPN/Youtube-ReVanced-Module/releases)
 
 This Magisk Module For YouTube ReVanced
 
