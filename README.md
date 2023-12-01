@@ -1,19 +1,27 @@
-# YT ReVanced Module
+# YT ReVanced Module [Dynamic Mount]
+[![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/RabahX_Official)
+[![Release](https://img.shields.io/github/v/release/RabahX/YT-ReVanced-Module?label=Release)](https://github.com/RabahX/YT-ReVanced-Module/releases/latest)
+![](https://img.shields.io/badge/Android-8.0%20--%2013-red.svg)
+<img src="https://img.shields.io/github/downloads/RabahX/YT-ReVanced-Module/total">
 
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/@Near365)
-[![Download](https://img.shields.io/github/v/release/NearVPN/YT-ReVanced-Module?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/NearVPN/YT-ReVanced-Module/releases/latest)
-[![Total](https://shields.io/github/downloads/NearVPN/YT-ReVanced-Module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/NearVPN/YT-ReVanced-Module/releases) 
+This Magisk Module For YouTube ReVanced
 
-## Introduction
-
-A YT-ReVanced-Module is endeavoring to replace the original YouTube app with YouTube ReVanced through the use of Dynamic Mount.
-
-> Dynamic Mount is a feature that runs a script every time an app is launched. This script allows you to create a bind mount, which is essentially a different perspective on a directory tree. Unlike traditional mounting, where a storage device becomes a directory tree, a bind mount duplicates an existing directory tree at a different location. The directories and files within the bind mount are identical to the original, and any changes made on one side are immediately reflected on the other side since both perspectives display the exact same data. So, Dynamic Mount enables you to perform this operation automatically when launching an app.
-
-## Requirements
-
-- Android 8 or later is required.
-- It is necessary to install the Process Monitor Tools module with version 2.3 or higher, as it supports both `Magisk` and `KernelSU`.
-- Installing YouTube is a requirement, and it is necessary for the version to be compatible with the one in the module.
-
-## What makes it different from other modules?
+## â­ Requirements
+- **Android Version: Android 8+**
+- **Process Monitor Tool v2.1+**
+- **YouTube must be Installed**
+- **The Version of YouTube must be compatible with the version of YouTube ReVanced**
+## Features
+- Initial Size of module is low
+- Open Source
+- Banking Apps Won't detect this Module in the rate of 99.1%
+- Works on almost all roms
+- Use binding mount for Replace YouTube with YouTube ReVanced
+- Disable Play Store updates for YouTube ReVanced 
+- There are no traces after deletion
+- VolumeKey-Selector to choose your favorite theme
+## Contribute
+- Reporting bugs with logs
+- Feature Requests
+- Supporting other persons on issues
+- Creating pull request to enable new feature or code improvements
