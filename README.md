@@ -1,12 +1,12 @@
 # YT ReVanced Module [Dynamic Mount]
-[![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/RabahX_Official)
-[![Release](https://img.shields.io/github/v/release/RabahX/YT-ReVanced-Module?label=Release)](https://github.com/RabahX/YT-ReVanced-Module/releases/latest)
+[![Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/Near365_Official)
+[![Release](https://img.shields.io/github/v/release/NearVPN/Youtube-ReVanced-Module?label=Release)](https://github.com/NearVPN/Youtube-ReVanced-Module/releases/latest)
 ![](https://img.shields.io/badge/Android-8.0%20--%2013-red.svg)
-<img src="https://img.shields.io/github/downloads/RabahX/YT-ReVanced-Module/total">
+<img src="https://img.shields.io/github/downloads/NearVPN/Youtube-ReVanced-Module/total">
 
 This Magisk Module For YouTube ReVanced
 
-## â­ Requirements
+## ⭐ Requirements
 - **Android Version: Android 8+**
 - **Process Monitor Tool v2.1+**
 - **YouTube must be Installed**
