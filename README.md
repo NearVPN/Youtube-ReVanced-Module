@@ -1,6 +1,6 @@
 # YT ReVanced Module [Dynamic Mount]
 
-[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/@Near365_Official)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/Near365_Official)
 [![Download](https://img.shields.io/github/v/release/NearVPN/Youtube-ReVanced-Module?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/NearVPN/Youtube-ReVanced-Module/releases/latest)
 [![Total](https://shields.io/github/downloads/NearVPN/Youtube-ReVanced-Module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/NearVPN/Youtube-ReVanced-Module/releases)
 
@@ -14,7 +14,7 @@ This Magisk Module For YouTube ReVanced
 ## Features
 - Initial Size of module is low
 - Open Source
-- Banking Apps Won't detect this Module in the rate of 99.1%
+- Banking Apps Won't detect this Module in the rate of 99.5%
 - Works on almost all roms
 - Use binding mount for Replace YouTube with YouTube ReVanced
 - Disable Play Store updates for YouTube ReVanced 
