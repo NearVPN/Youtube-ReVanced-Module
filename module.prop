@@ -1,0 +1,8 @@
+id=ytrevancedinject
+name=YouTube ReVanced
+package=com.google.android.youtube
+version=18.46.40
+versionCode=1541277120
+author=Near365
+description=YouTube ReVanced by Near365. Require Process Monitor tool v2.1+
+updateJson=https://raw.githubusercontent.com/NearVPN/YT-REVANCED-MODULE/master/releases/YT-Update.json
