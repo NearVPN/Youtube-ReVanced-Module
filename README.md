@@ -8,7 +8,7 @@ This Magisk Module For YouTube ReVanced
 
 ## ⭐ Requirements
 - **Android Version: Android 8+**
-- **[Process Monitor Tool v2.1+]**(https://github.com/HuskyDG/zygisk_proc_monitor): A Magisk/Zygisk module allows user to run script whenever app process start
+- [**Process Monitor Tool v2.1+**](https://github.com/HuskyDG/zygisk_proc_monitor): A Magisk/Zygisk module allows user to run script whenever app process start
 - **YouTube must be Installed**
 - **The Version of YouTube must be compatible with the version of YouTube ReVanced**
 ## Features
