@@ -4,7 +4,7 @@
 [![Download](https://img.shields.io/github/v/release/NearVPN/Youtube-ReVanced-Module?color=blue&logoColor=white&label=Download&logo=DocuSign)](https://github.com/NearVPN/Youtube-ReVanced-Module/releases/latest)
 [![Total](https://shields.io/github/downloads/NearVPN/Youtube-ReVanced-Module/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/NearVPN/Youtube-ReVanced-Module/releases)
 
-This Magisk Module For YouTube ReVanced
+This Magisk and KernelSU module is for YouTube ReVanced.
 
 ## ⭐ Requirements
 - **Android Version: Android 8+**
