@@ -1,4 +1,4 @@
-### 18.46.40
+### 18.46.41
 
 1. YouTube ReVanced app has been updated.
 
